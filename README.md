@@ -1,3 +1,4 @@
+![AI Assisted](https://img.shields.io/badge/AI%20Assisted-OpenAI%20Codex-blueviolet?logo=openai&logoColor=white)
 # Xiapi Commerce
 
 A modern, full-stack e-commerce experience featuring a Vite + React frontend styled with Tailwind CSS and a Node.js + Express API backed by MongoDB. The project includes JWT authentication, cart & checkout flows, admin management tools, and tasteful motion design inspired by Apple, Nike, and Shopify.
