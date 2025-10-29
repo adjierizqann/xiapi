@@ -94,6 +94,21 @@ Once the backend is running locally, test endpoints with curl or Postman:
 curl http://localhost:5000/api/products
 ```
 
+
+---
+
+### 🤖 Built with AI Assistance
+
+This project, **Xiapi Commerce**, was created as part of a personal learning and development exercise.  
+The initial scaffolding and boilerplate were generated with the help of **OpenAI Codex / ChatGPT (GPT-5)** to accelerate setup and code structure.
+
+All subsequent customization, styling, and integration (UI polish, deployment, and logic fixes) were manually implemented and reviewed by **Muhammad Rizqan Nur Adjie Adzani (@adjierizqann)**.
+
+> ⚡ AI was used as a coding assistant — not as an author.  
+> The goal was to learn, refine, and adapt AI-assisted code into a fully functional, educational project.
+
 ## License
 
 This project is provided as a starter template. Adapt and extend it to fit your brand and business logic.
+
+
